@@ -47,4 +47,10 @@
 #####8.  "merged_subset_averages.csv" is a comma-delimited text file where each row of data repesents average values of all mean and standard deviation variables for each volunteer subject engaged in a single activity.
     
     The data in this "tidy" dataset is explained in more detail
-    in the file "Codebook.md"
+    in the file "Codebook.md".  The "tidy" dataset can be read
+    in R using the command "read.csv".  Also, a copy of this
+    dataset is included in the Github repository.  The dataset
+    can be viewed on Github with a web browser, and it will
+    appear as rows and columns.
+    
+    
